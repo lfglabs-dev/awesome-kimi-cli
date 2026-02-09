@@ -24,6 +24,7 @@ Kimi Code CLI is an open-source AI coding agent that runs in your terminal, help
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Community Projects](#community-projects)
 - [Related Projects](#related-projects)
+- [Community](#community)
 - [Follow](#follow)
 
 ## Official Resources
@@ -106,6 +107,10 @@ Kimi CLI supports MCP (Model Context Protocol) servers to extend AI capabilities
 - [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal.
 - [Continue](https://github.com/continuedev/continue) - Open-source AI code assistant.
 - [sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) - Isolated container workspaces for AI coding agents.
+
+## Community
+
+- 💬 [Relens Community](https://relens.ai/community) - Join the AI coding agents community to share tips, tricks, and workflows.
 
 ## Follow
 
