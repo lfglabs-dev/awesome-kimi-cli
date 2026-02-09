@@ -6,9 +6,7 @@
 
 A curated list of awesome resources, tools, extensions, and integrations for Kimi Code CLI.
 
-<a href="https://github.com/MoonshotAI/kimi-cli" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social" alt="Kimi CLI Stars" />
-</a>
+<img src="https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social" alt="Kimi CLI Stars" />
 
 Kimi Code CLI is an open-source AI coding agent that runs in your terminal, helping you complete software development tasks through code editing, shell commands, and autonomous planning.
 
@@ -92,8 +90,6 @@ Kimi CLI supports MCP (Model Context Protocol) servers to extend AI capabilities
 - [MCP Configuration Guide](https://moonshotai.github.io/kimi-cli/en/customization/mcp.html) - Setting up MCP servers with Kimi CLI.
 - [Tool Integrations Guide](https://moonshotai.github.io/kimi-cli/en/guides/integrations.html) - Integrating Kimi CLI with external tools.
 - [How to Use Kimi CLI](https://apidog.com/blog/how-to-use-kimi-cli/) - Comprehensive usage tutorial by Apidog.
-- [Run Kimi K2.5 Locally](https://www.datacamp.com/tutorial/how-to-run-kimi-k2-5-locally) - DataCamp tutorial on local model deployment.
-- [Kimi Code Guide](https://aicybr.com/blog/kimi-code-guide) - Architecture, installation, and usage guide.
 
 ## Community Projects
 
