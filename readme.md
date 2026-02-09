@@ -10,7 +10,7 @@ A curated list of awesome resources, tools, extensions, and integrations for Kim
   <img src="https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social" alt="Kimi CLI Stars" />
 </a>
 
-[Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) is an open-source AI coding agent that runs in your terminal, helping you complete software development tasks through code editing, shell commands, and autonomous planning.
+Kimi Code CLI is an open-source AI coding agent that runs in your terminal, helping you complete software development tasks through code editing, shell commands, and autonomous planning.
 
 </div>
 
@@ -81,7 +81,6 @@ Kimi CLI supports MCP (Model Context Protocol) servers to extend AI capabilities
 
 ## API Providers
 
-- [Moonshot AI Platform](https://platform.moonshot.ai/) - Official Kimi API with OpenAI-compatible endpoints.
 - [NVIDIA NIM](https://build.nvidia.com/moonshotai/kimi-k2.5) - Free Kimi K2.5 API access through NVIDIA.
 - [OpenRouter](https://openrouter.ai/moonshotai/kimi-k2.5) - Access Kimi models through OpenRouter's unified API.
 - [Together AI](https://www.together.ai/models/kimi-k2-5) - Kimi K2.5 API on Together AI platform.
