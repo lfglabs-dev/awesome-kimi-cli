@@ -1,5 +1,5 @@
 name: lint
-on: 
+on:
   pull_request:
   push:
     branches:
@@ -11,15 +11,15 @@ jobs:
         fail-fast: false
         matrix:
           files:
-            - "readme-template.md"
+            - "readme.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
-          uses: actions/checkout@v2
+          uses: actions/checkout@v4
           with:
             fetch-depth: 0
         - name: asdf_install
-          uses: asdf-vm/actions/install@v1
+          uses: asdf-vm/actions/install@v3
         - name: "linting: ${{ matrix.files }}"
           run: npx -y awesome-lint ${{ matrix.files }}
     awesome-bot:
@@ -27,19 +27,19 @@ jobs:
         fail-fast: false
         matrix:
           files:
-            - "readme-template.md"
+            - "readme.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
-          uses: actions/checkout@v2.0.0
+          uses: actions/checkout@v4
           with:
             fetch-depth: 0
         - name: "setup ruby"
           uses: ruby/setup-ruby@v1
           with:
-            ruby-version: 3.0.1
+            ruby-version: 3.3
             bundler-cache: true
         - name: "install awesome-bot"
           run: gem install awesome_bot
         - name: "linting: ${{ matrix.files }}"
-          run: awesome_bot --allow-redirect --white-list https://github.com/YOUR_GITHUB_USER/YOUR_REPO ${{ matrix.files }} 
+          run: awesome_bot --allow-redirect --white-list https://github.com/lfglabs-dev/awesome-kimi-cli ${{ matrix.files }}
