@@ -105,6 +105,7 @@ Kimi CLI supports MCP (Model Context Protocol) servers to extend AI capabilities
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's Gemini CLI tool.
 - [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal.
 - [Continue](https://github.com/continuedev/continue) - Open-source AI code assistant.
+- [sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) - Isolated container workspaces for AI coding agents.
 
 ## Follow
 
