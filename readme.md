@@ -107,6 +107,7 @@ Kimi CLI supports MCP (Model Context Protocol) servers to extend AI capabilities
 - [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal.
 - [Continue](https://github.com/continuedev/continue) - Open-source AI code assistant.
 - [sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) - Isolated container workspaces for AI coding agents.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local CLI/TUI for replaying and diagnosing Kimi CLI and coding-agent session history.
 
 ## Community
 
