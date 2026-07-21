@@ -99,7 +99,7 @@ Kimi CLI supports MCP (Model Context Protocol) servers to extend AI capabilities
 - [Kimi-Dev](https://github.com/MoonshotAI/Kimi-Dev) - Open-source coding LLM optimized for software engineering tasks.
 - [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Audio foundation model for understanding, generation, and conversation.
 - [Mooncake](https://github.com/kvcache-ai/Mooncake) - KV-centric disaggregated LLM serving, Best Paper at FAST 2025.
-- [KimiScope](https://github.com/LokarBOA/kimiscope) - Standalone desktop UI for Kimi Code that skips ACP and talks to the daemon's API directly.
+- [KimiScope](https://github.com/LokarBOA/kimiscope) - Standalone desktop UI for Kimi Code that skips ACP and talks to the daemon's native API directly.
 
 ## Related Projects
 
