@@ -41,6 +41,7 @@ Kimi Code CLI is an open-source AI coding agent that runs in your terminal, help
 - [Kimi Code Open VSX](https://open-vsx.org/extension/moonshot-ai/kimi-code) - Kimi Code extension on the Open VSX Registry for VS Code alternatives.
 - [Kimi CLI Zed Extension](https://github.com/MoonshotAI/kimi-code-zed-extension) - Official Zed editor extension with ACP integration.
 - [Kimi Commits IntelliJ](https://plugins.jetbrains.com/plugin/23629-kimi-commits) - Generate smart Git commit messages with Kimi AI for JetBrains IDEs.
+- [iolys](https://getiolys.com/providers/kimi) - Visual Studio 2026 extension that runs Kimi Code CLI with solution and editor context for C# and .NET development.
 
 ## Shell Plugins
 
